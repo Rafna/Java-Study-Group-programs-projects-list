@@ -1,0 +1,33 @@
+
+
+Hello World: Print the message “Welcome to the world of Java!”
+Age in five years: Enter username and age. Calculate user’s age after 5 years and display it.
+Phrase-O-Matic: Make three lists of words, then randomly picks one word from each of three lists and print the result.
+Return sum of two numbers: Given two int values, return their sum. Unless the two values are the same, then return double their sum. 
+Reverse a String: Enter a String and program will reverse it and print.
+Compare two numbers: Enter two numbers and compare it and print the result.
+Display corresponding month to the input value: Display the month corresponding to the integer value entered in the program.
+Pattern: Create below pattern
+      1
+      1  2  1
+      1  2  1  3  1  2  1
+      1  2  1  3  1  2  1  4  1  2  1  3  1  2  1
+      1  2  1  3  1  2  1  4  1  2  1  3  1  2  1  5  1  2  1  3  1  2  1  4  1  2  1  3  1  2  1
+Search a number: Program to search a number from an array and print the index value.
+Factorial of a number: Find the factorial of a given number and print. That is multiply a series of descending natural numbers.
+Prime numbers: Print n prime numbers
+Fibonacci series: Print Fibonacci series of n numbers.
+Search a number: Search a number from an array.
+Palindrome of a String: Check if a given String is palindrome. That is that it reads the same forwards as backwards like “racecar”
+Count Vowels: Enter a String and program should count the number of vowels in the String and print.
+Count words: Count number of words in a given line or count number of alphabets in a given String.
+Pig Latin: To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay)
+Guessing game: There is a game and 3 players. Game generates a random number between 0 and 9, and the three players try to guess it.
+Exception example: Program accepts only the word “client”, otherwise it generate the error message.
+BMI Calculator: Enter height and weight and calculate BMI(divide weight in kilograms by square of height in meters)
+Text Editor: Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
+RSS Feed Creator: A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
+
+
+
+
