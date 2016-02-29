@@ -1,10 +1,10 @@
 
 
-Hello World: Print the message “Welcome to the world of Java!”
-Age in five years: Enter username and age. Calculate user’s age after 5 years and display it.
-Phrase-O-Matic: Make three lists of words, then randomly picks one word from each of three lists and print the result.
-Return sum of two numbers: Given two int values, return their sum. Unless the two values are the same, then return double their sum. 
-Reverse a String: Enter a String and program will reverse it and print.
+1: Hello World: Print the message “Welcome to the world of Java!”
+2: Age in five years: Enter username and age. Calculate user’s age after 5 years and display it.
+3: Phrase-O-Matic: Make three lists of words, then randomly picks one word from each of three lists and print the result.
+4: Return sum of two numbers: Given two int values, return their sum. Unless the two values are the same, then return double their sum. 
+5: Reverse a String: Enter a String and program will reverse it and print.
 Compare two numbers: Enter two numbers and compare it and print the result.
 Display corresponding month to the input value: Display the month corresponding to the integer value entered in the program.
 Pattern: Create below pattern
