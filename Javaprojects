@@ -5,7 +5,7 @@
 3: Phrase-O-Matic: Make three lists of words, then randomly picks one word from each of three lists and print the result.
 4: Return sum of two numbers: Given two int values, return their sum. Unless the two values are the same, then return double their sum. 
 5: Reverse a String: Enter a String and program will reverse it and print.
-Compare two numbers: Enter two numbers and compare it and print the result.
+6: Compare two numbers: Enter two numbers and compare it and print the result.
 Display corresponding month to the input value: Display the month corresponding to the integer value entered in the program.
 Pattern: Create below pattern
       1
