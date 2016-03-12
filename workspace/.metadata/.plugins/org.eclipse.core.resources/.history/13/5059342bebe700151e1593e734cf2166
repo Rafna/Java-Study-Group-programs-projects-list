@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class AgeInFiveYears {
+	
+	public static void main(String[] args) {
+		String name;
+		int age, ageafter;
+		System.out.print("Enter your name here: ");
+		name = new Scanner(System.in).next();
+		//name = input.next();
+		System.out.print("Enter your current age here: ");
+		age = Integer.parseInt(new Scanner(System.in).next());
+		ageafter = age+5;
+		System.out.println(name+"'s age after 5 years is "+ageafter);
+	}
+
+}

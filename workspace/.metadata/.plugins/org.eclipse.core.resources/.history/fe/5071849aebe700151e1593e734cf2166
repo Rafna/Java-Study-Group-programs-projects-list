@@ -6,9 +6,9 @@ public class AgeInFiveYears {
 		String name;
 		int age, ageafter;
 		Scanner input=null;
-		input = new Scanner(System.in);
 		try{
 			System.out.print("Enter your name here: ");
+			input = new Scanner(System.in);
 			name = input.next();
 			System.out.print("Enter your current age here: ");
 			age = Integer.parseInt(input.next());
