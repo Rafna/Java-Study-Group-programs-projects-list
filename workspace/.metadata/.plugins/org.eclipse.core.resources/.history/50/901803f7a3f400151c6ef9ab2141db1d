@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class PhraseOMatic {
+
+	@SuppressWarnings("null")
+	public static void main(String[] args) {
+		String wlist1[]=null,wlist2[]=null,wlist3[]=null;
+		int n1,n2,n3,i;
+		Scanner input=null;
+		input=new Scanner(System.in);
+		try{
+			System.out.println("How many words in first list?");
+			n1=input.nextInt();
+			System.out.println("Enter the words in first list: ");
+			//for(i=0;i<n1;i++){
+				wlist1[n1]=input.nextLine();	
+			//}
+			System.out.println("How many words in second list?");
+			n2=input.nextInt();
+			System.out.println("Enter the words in second list: ");
+			for(i=0;i<n2;i++){
+				wlist2[i]=input.nextLine();	
+			}
+			System.out.println("How many words in thrid list?");
+			n3=input.nextInt();
+			System.out.println("Enter the words in third list: ");
+			for(i=0;i<n3;i++){
+				wlist3[i]=input.nextLine();
+			}
+		}
+		finally{
+			if(input!=null)
+				input.close();
+		}
+	}
+
+}
