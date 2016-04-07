@@ -1,4 +1,4 @@
-
+//Make three lists of words, then randomly picks one word from each of three lists and print the result
 
 public class PhraseOMatic {
 
@@ -13,7 +13,7 @@ public class PhraseOMatic {
 		int rand2=(int)(Math.random()*l2);
 		int rand3=(int)(Math.random()*l3);
 		String phrase=list1[rand1]+" "+list2[rand2]+" "+list3[rand3];
-		System.out.println("The phrase we are randomly looking for is "+phrase);
+		System.out.println("The phrase we are randomly looking for is '"+phrase+"'");
 		
 		
 	}

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Calculate user’s age after 5 years
 
 public class AgeInFiveYears {
 	
