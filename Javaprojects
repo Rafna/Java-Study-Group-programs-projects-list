@@ -28,6 +28,7 @@
 21: BMI Calculator: Enter height and weight and calculate BMI(divide weight in kilograms by square of height in meters)
 22: Text Editor: Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
 23: RSS Feed Creator: A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
+24: Armstrong number: A program to find a given number is an armstrong number or not. Eg: 153=1*3+5*3+3*3=153.
 
 
 
