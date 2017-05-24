@@ -6,4 +6,6 @@ The list is not completed.... More programs will be added.......
 
 If you want to view the codes for the programs then check codespace branch and see the workshop folder.
 
+New branch (2017projects) is added. It has 2017 projects discussed in Java Study Group monthly meeting.
+
 Happy coding!!
